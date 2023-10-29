@@ -173,3 +173,37 @@ As your rebirths increases the following will change
 - You are unable to join an adventure without any currency and will require at least 250 of your local currency.
 - Randomly, A Trader will show up in #adventuring with a cart full of items available for purchase!!!
 - Trader will have a much more varied number of items in his inventory and on some lucky hauls he may even have several items for sale.
+
+
+## Commands
+- !adventure (alias - !a) - This will send you on an adventure in which others can participate in.
+- !aleaderboard - Prints the leaderboard.
+- !apayday - Get your free payday gold!
+- !atransfer - Transfer currency between players!
+- !backpack - This shows the contents of your backpack.
+- !cbackpack - Complex backpack management tools.
+- !convert - Convert norm, rare, or epic chests to the next quality chest(s).
+- !ebackpack - This shows the contents of your backpack that can be equipped. Give it a rarity and/or slot to filter what backpack items to show. Note: An item degrade level is how many rebirths it will last, before it is broken down.
+- !equip - This equips an item from your backpack.
+- !heroclass - Allows you to select a class if you are level 10 or above. For information on class use: !heroclass classname info.
+- !loadout - Set up gear sets or loadouts
+- !loot [box_type=None] [number=1] - This opens one of your precious treasure chests. 
+- !mysets - Shows your sets.
+- !negaverse <offering> (Alias !nv <offering>) - This will send you to the a nega-member!
+- !rebirth - Resets your character level and increases your rebirths by 1.
+- !scoreboard - Prints the scoreboard.
+- !setinfo - Shows set bonuses for the specified set.
+- !skill - Allows you to spend skillpoints.
+- !stats - This draws up a character sheet of you or an optionally specified member.
+- !unequip - This stashes a specified equipped item into your backpack.
+- !wscoreboard - Print the weekly scoreboard.
+- !adventurealert - Enable/Disable notifications for all adventures.
+
+CLASS SPECIFIC COMMANDS
+!bless
+!focus
+!forge
+!insight
+!music
+!pet
+!rage

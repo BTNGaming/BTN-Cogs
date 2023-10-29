@@ -12,47 +12,47 @@ To start an adventure, use `[p]adventure` or `[p]a`. Reactions will appear under
 ## Hero/Heroclass
 
 Classes can be chosen at level 10 by using `[p]heroclass`. Available classes are Tinkerer, Berserker, Wizard, Cleric, Ranger and Bard. A prestige class called Psychic is available at Rebirth level 20 (more on the rebirthing system below).  
-  
+
 Main Stats: Attack (ATT/ATK), Charisma/Diplomacy (CHA/DIPL), Intelligence (INT)  
 Minor Stats: Dexterity (DEX), Luck (LUCK/LUK)  
-  
+
 While each class has a main stat that benefits them more than others, Dexterity and Luck benefit every class. Dexterity can lessen your repair bills after a failed adventure and help your hero get critical hits, while luck can benefit the outcome of special attacks, reduce cooldown times, augment critical strikes, affect loot chest outcomes, and reduce the price of items.  
-  
+
 **Tinkerers** can forge two different items into a device bound to their very soul.  
 Special ability: Use the `[p]forge` command.  
 * Forge together two items in your backpack to potentially make an incredibly powerful random item.  
 Preferred stat: INT  
 At 30 rebirths, Tinkerers can forge Ascended-level items.  
-  
+
 **Berserkers** have the option to rage and add big bonuses to attacks, but fumbles hurt.  
 Use the `[p]rage` command when attacking in an adventure.  
 * Causes a large amount of ATK-based/Physical-based damage.  
 Preferred stat: ATK  
 Rebirths provide not only a base bonus to attacks as Berserkers grow stronger, but they augment critical strike chance and attack value.  
-  
+
 **Clerics** can bless the entire group when praying.  
 Use the `[p]bless` command when fighting in an adventure.  
 * Bless your groups' damage by invoking your deity. The more people that are participating, the harder the deity smites their foes... if they choose to help.  
 Preferred stat: INT  
 Every 15 rebirths a Cleric recieves another +1 to their successful prayer damage multiplier.  
-  
+
 **Rangers** can gain a special pet, which can find items and give reward bonuses.  
 Use the `[p]pet` command to try to catch a pet companion. Pet catching can be spammy, so `[p]pet` can be run in DMs.  
 `[p]pet forage` sends a pet to search for items, and `[p]pet free` will free your companion in case you wish to try your hand at capturing something that brings in more gold and loot from fights.  
 * Catch one of over 900 randomly-generated pets in search of the legendary beasts rumored to exist...  
 Preferred stat: CHA for charming pet companions and enemies, or ATK for pure damage  
-  
+
 **Wizards** have the option to focus and add large bonuses to their magic, but their focus can sometimes go astray...  
 Use the `[p]focus` command when attacking in an adventure.  
 * Causes a large amount of Int-based/Magic-based damage.  
 Preferred stat: INT  
-  
+
 **Bards** can perform to aid their comrades in diplomacy.  
 Use the `[p]music` command when being diplomatic in an adventure.  
 * Buffs other Charisma-using players when attacking.  
 Preferred stat: CHA  
 Rebirth levels can buff the base value of the bard's attack.  
-  
+
 **Psychics** can show the enemy's weaknesses to their group allowing them to target the monster's weak-points.  
 Use the `[p]insight` command in an adventure.  
 * A successful insight into an enemy's weak points during an adventure can turn the tide on difficult encounters.  
