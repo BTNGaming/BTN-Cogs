@@ -1,0 +1,31 @@
+{
+    "author": [
+        "TrustyJAID",
+        "BTNGaming"
+    ],
+    "description": "Receive notifications from Overkill RPG activities!",
+    "disabled": false,
+    "end_user_data_statement": "This cog stores discord User ID's for the purposes of mentioning the user on certain events.\nUsers may delete their own data with or without making a data request.",
+    "hidden": false,
+    "install_msg": "Make sure you're running the latest version of adventure from https://github.com/BTNGaming/BTN-Cogs/tree/main/adventure",
+    "max_bot_version": "0.0.0",
+    "min_bot_version": "3.5.0",
+    "min_python_version": [
+        3,
+        7,
+        2
+    ],
+    "name": "OverkillAlert",
+    "permissions": [],
+    "required_cogs": {
+        "adventure": "https://github.com/BTNGaming/BTN-Cogs/tree/main/adventure"
+    },
+    "requirements": [],
+    "short": "Receive notifications from Overkill RPG activities!",
+    "tags": [
+        "fun",
+        "adventure",
+        "rpg"
+    ],
+    "type": "COG"
+}

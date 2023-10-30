@@ -219,7 +219,7 @@ As your rebirths increases the following will change
 - !wscoreboard - Print the WEEKLY scoreboard.
 
 
-- !adventurealert - Enable/Disable notifications for all adventures.
+- !overkillalert - Enable/Disable notifications for all adventures.
 
 CLASS SPECIFIC COMMANDS
 - !bless    (Supports the team with a blessing/prayer ability to create a higher chance of evading being injured in battle))
