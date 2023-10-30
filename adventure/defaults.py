@@ -50,8 +50,8 @@ default_user = {
 
 default_guild = {
     "cart_channels": [],
-    "god_name": "",
-    "cart_name": "",
+    "god_name": "Akatosh",
+    "cart_name": "Geb's brother",
     "embed": True,
     "cooldown": 0,
     "cartroom": None,
@@ -62,8 +62,8 @@ default_guild = {
     "max_allowed_withdraw": 50000,
 }
 default_global = {
-    "god_name": "Herbert",
-    "cart_name": "Hawl's brother",
+    "god_name": "Akatosh",
+    "cart_name": "Geb's brother",
     "theme": "default",
     "restrict": False,
     "embed": True,
@@ -78,6 +78,6 @@ default_global = {
     "to_conversion_rate": 10,
     "from_conversion_rate": 11,
     "max_allowed_withdraw": 50000,
-    "disallow_withdraw": False,
+    "disallow_withdraw": True,
     "easy_mode": False,
 }

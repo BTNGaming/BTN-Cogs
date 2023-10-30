@@ -110,7 +110,7 @@ Commands for the #character-growth channel are as follows:
  - Forge Ability !forge (Can forge items into new quality, causing them to increase in stats)
 ### Psychic (Available @ REBIRTH 30)
  - Intelligence and Luck affects this class ability to reveal more information from an enemy.
- - Instite Ability !insite ( This allows a Psychic to expose the current enemy's weakeness to the party)
+ - Instite Ability !insight ( This allows a Psychic to expose the current enemy's weakeness to the party)
 
 
 
@@ -176,34 +176,56 @@ As your rebirths increases the following will change
 
 
 ## Commands
-- !adventure (alias - !a) - This will send you on an adventure in which others can participate in.
-- !aleaderboard - Prints the leaderboard.
-- !apayday - Get your free payday gold!
-- !atransfer - Transfer currency between players!
+
+# #stats-inventory commands
+- !loadout - Set up gear sets or loadouts
+- !loot [box_type=None] [number=1] - This opens one of your precious treasure chests.
+- !mysets - Shows your sets.
+- !rebirth - Resets your character level and increases your rebirths by 1.
+- !setinfo - Shows set bonuses for the specified set.
+- !skill - Allows you to spend skillpoints.
+- !stats - This draws up a character sheet of you or an optionally specified member.
+- !unequip - This stashes a specified equipped item into your backpack.
 - !backpack - This shows the contents of your backpack.
 - !cbackpack - Complex backpack management tools.
 - !convert - Convert norm, rare, or epic chests to the next quality chest(s).
 - !ebackpack - This shows the contents of your backpack that can be equipped. Give it a rarity and/or slot to filter what backpack items to show. Note: An item degrade level is how many rebirths it will last, before it is broken down.
 - !equip - This equips an item from your backpack.
 - !heroclass - Allows you to select a class if you are level 10 or above. For information on class use: !heroclass classname info.
-- !loadout - Set up gear sets or loadouts
-- !loot [box_type=None] [number=1] - This opens one of your precious treasure chests. 
-- !mysets - Shows your sets.
+- !forge (Tinkerer - Can forge items into new quality, causing them to increase in stats)
+
+# #adventuring commands
+- !adventure (alias - !a) - This will send you on an adventure in which others can participate in.
+- !bless (Supports the team with a blessing/prayer ability to create a higher chance of evading being injured in battle))
+- !focus (Wizard - Focuses the team to help their stats in battle!)
+- !insight (Pyshic - This allows you to expose the current enemy's weakeness to the party)
+- !music (Bard - Plays music to cheer up the team and/or attempt to put the monsters to sleep!)
+- !pet (Ranger - Hunts for new pets, which automatically help in battle (Sub commands are !pet forage (To forage for items) and !pet free to release your pet to the wild))
+- !rage (Berserker - Invokes RAGE during battle causing the player to go insane with strength!)
+
+# #treasury commands
+- !apayday - Get your free payday gold!
+- !atransfer - Transfer currency between players!
+- !forge (Tinkerer - Can forge items into new quality, causing them to increase in stats)
+- !loot [box_type=None] [number=1] - This opens one of your precious treasure chests.
+
+# #negaverse commands
 - !negaverse <offering> (Alias !nv <offering>) - This will send you to the a nega-member!
-- !rebirth - Resets your character level and increases your rebirths by 1.
-- !scoreboard - Prints the scoreboard.
-- !setinfo - Shows set bonuses for the specified set.
-- !skill - Allows you to spend skillpoints.
-- !stats - This draws up a character sheet of you or an optionally specified member.
-- !unequip - This stashes a specified equipped item into your backpack.
-- !wscoreboard - Print the weekly scoreboard.
+
+# #leaderboards commands
+- !nvsb - Show's the Negaverse scoreboard.
+- !aleaderboard - Prints the OVERALL leaderboard.
+- !scoreboard - Prints the scoreboard (Can be organized by Wins/Losses/Stats/Fumbles, etc.)
+- !wscoreboard - Print the WEEKLY scoreboard.
+
+
 - !adventurealert - Enable/Disable notifications for all adventures.
 
 CLASS SPECIFIC COMMANDS
-!bless
-!focus
-!forge
-!insight
-!music
-!pet
-!rage
+- !bless    (Supports the team with a blessing/prayer ability to create a higher chance of evading being injured in battle))
+- !focus    (Wizard - Focuses the team to help their stats in battle!)
+- !insight  (Pyshic - This allows you to expose the current enemy's weakeness to the party)
+- !music    (Bard - Plays music to cheer up the team and/or attempt to put the monsters to sleep!)
+- !pet      (Ranger - Hunts for new pets, which automatically help in battle (Sub commands are !pet forage (To forage for items) and !pet free (to release your pet to the wild.)))
+- !rage     (Berserker - Invokes RAGE during battle causing the player to go insane with strength!)
+- !forge    (Tinkerer - Can forge items into new quality, causing them to increase in stats)
