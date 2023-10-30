@@ -229,3 +229,56 @@ CLASS SPECIFIC COMMANDS
 - !pet      (Ranger - Hunts for new pets, which automatically help in battle (Sub commands are !pet forage (To forage for items) and !pet free (to release your pet to the wild.)))
 - !rage     (Berserker - Invokes RAGE during battle causing the player to go insane with strength!)
 - !forge    (Tinkerer - Can forge items into new quality, causing them to increase in stats)
+
+.
+
+
+
+
+
+
+
+
+
+
+```markdown
+# Overkill RPG
+
+## Welcome to Overkill RPG
+
+In this RPG, we have crafted a fun idle game you can play with other members of the server.
+
+We are still looking for suggestions and ideas, if you have ANY at all, PLEASE let us know in ⁠:incoming_envelope:-game-suggestions
+
+If you want to CHAT, Have questions, or anything along those lines, please go to ⁠:beers:-the-tavern to communicate with others.
+
+Whenever you see a command in this guide, you can type !help COMMANDNAME for more information about it.
+
+To start an adventure, use `!adventure` or `!a`. Reaction will appear underneath the text of the adventure randomly selected for your group. Use :dagger:Attack to attack the monster, :speech_left:Talk to talk with the monster, :sparkles:Magic to use magic on the monster, :pray:Pray to pray to the god Akatosh, or :person_running:Run to try to run from the fight. Along with your choice of attack style, you can also use a ⚛Special Action to use your special ability (Depending on your Character Class.) The more people helping the easier it is to defeat the monster and acquire its loot.
+```
+```md
+## Monsters, Adventures, and the Numbers
+
+When an adventure is over, an output of the outcome is displayed. Sometimes the numbers won't seem to match up - why did that owlspider resist your 1,000 magic damage that you threw at it - and the output says 680 damage instead? Each monster has a resistance table where they could be resistant to magic like in this example, and it mitigated a good chunk of the attack. Having a balanced group across all classes is where adventure really shines - physical and magical damage is combined in adventures, and charisma stands alone in its persuading power to turn the fight around without fighting. Successful prayers by clerics over large groups augment damage of both damage types. If a group defeats an adventure on "both sides" of the damage (both physical+magical and diplomacy) the rewards are greater for the whole group.
+```
+
+```md
+## Items
+
+Items can be looted from loot chests received from a successful adventure or bought from a Trader Cart that appears in chat. 
+
+Going from least to most powerful, generally the progression is normal < rare < epic < Legendary < Ascended < Set.
+Forged items are a Tinker's specialty.
+Event items can be created by a bot owner as a special reward to hand out to specific users for bot events or other incentive-based rewards.
+```
+```ansi
+{Event:''Event items look like this''}
+{.:'Forged items look like this':.}
+{Set:''Set items look like this''}
+{Ascended:''Ascended items look like this''}
+{Legendary:'Legendary items look like this'}
+[epic items look like this]
+.rare_items_look_like_this
+normal items look like this
+```
+
