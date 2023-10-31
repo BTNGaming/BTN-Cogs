@@ -231,7 +231,7 @@ CLASS SPECIFIC COMMANDS
 - !forge    (Tinkerer - Can forge items into new quality, causing them to increase in stats)
 
 .
-
+.
 
 
 
