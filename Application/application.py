@@ -101,7 +101,7 @@ class Application(commands.Cog):
         embed = discord.Embed(
             color=await ctx.embed_colour(), timestamp=datetime.datetime.now()
         )
-        embed.set_author(name="New application!", icon_url=ctx.author.display_url)
+        embed.set_author(name="New application!", icon_url=ctx.author.display_avatar)
         embed.set_footer(
             text=f"{ctx.author.name}#{ctx.author.discriminator} ({ctx.author.id})"
         )
